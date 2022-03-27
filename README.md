@@ -1,5 +1,8 @@
 # github-lfs-example
 
+* https://git-lfs.github.com/
+* https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
+
 ```
 $ cd github-lfs-example 
 $ git lfs install
