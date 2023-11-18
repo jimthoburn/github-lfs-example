@@ -6,7 +6,7 @@
 ```
 $ cd github-lfs-example 
 $ git lfs install
-$ git lfs track "*.jpg" "*.jpeg" "*.png" "*.gif"
+$ git lfs track "*.jpg" "*.jpeg" "*.png" "*.gif" "*.avif" "*.webp"
 $ git add .gitattributes
 $ git status
 $ git commit -m "Enable Git LFS"
