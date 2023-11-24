@@ -1,0 +1,9 @@
+
+# https://docs.netlify.com/configure-builds/file-based-configuration/#sample-netlify-toml-file
+[build]
+  publish = "public"
+
+# https://docs.netlify.com/configure-builds/environment-variables/#netlify-configuration-variables
+[build.environment]
+   GIT_LFS_ENABLED = "true"
+   GIT_LFS_FETCH_INCLUDE = "*.jpg,*.jpeg,*.png,*.gif,*.avif,*.webp,*.zip,*.svg,*.woff2"
