@@ -1,4 +1,4 @@
-# github-lfs-example
+# Git large file storage example
 
 * https://git-lfs.github.com/
 * https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
